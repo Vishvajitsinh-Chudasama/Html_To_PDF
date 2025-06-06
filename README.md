@@ -17,10 +17,10 @@ This project allows users to upload an HTML file and converts it into a download
 ![Homepage Screenshot](output/1_image.png)
 
 ### 2. Input HTML File
-![Input HTML Screenshot](output/sample.html)
+[Input HTML File](output/sample.html)
 
 ### 3. Output PDF File
-[Screenshot of Sample PDF](output/2_image.png)
+![Screenshot of Sample PDF](output/2_image.png)
 
 ## Widget / Algorithm Used
 - The frontend uses a simple HTML form with a file input and a "Generate PDF" button.
